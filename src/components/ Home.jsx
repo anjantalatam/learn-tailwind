@@ -24,7 +24,7 @@ function Home() {
         </div>
       </div>
       <div
-        className="absolute bottom-[5%] py-8 
+        className="absolute bottom-[5%] py-8 left-20
       md:min-w-[760px] mx-1 md:left-1/2 transform md:-translate-x-1/2 
       flex flex-col bg-zinc-200 border border-slate-300 rounded-xl 
       text-center shadow-xl"

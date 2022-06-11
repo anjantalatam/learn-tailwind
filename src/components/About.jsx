@@ -22,7 +22,7 @@ function About() {
           <div
             className="border  
           border-slate-200 shadow-xl p-5 rounded-xl py-8
-          hover:shadow-2xl flex justify-between"
+          hover:shadow-2xl flex justify-between overflow-hidden"
           >
             <div>
               <p className="text-indigo-600 font-bold text-4xl  ">100%</p>
@@ -37,7 +37,7 @@ function About() {
           <div
             className="border 
           border-slate-200 shadow-xl p-5 rounded-xl py-8
-          hover:shadow-2xl flex justify-between"
+          hover:shadow-2xl flex justify-between overflow-hidden"
           >
             <div>
               <p className="text-indigo-600 font-bold text-4xl ">24/7</p>
@@ -52,7 +52,7 @@ function About() {
           <div
             className="border 
           border-slate-200 shadow-xl p-5 rounded-xl py-8
-          hover:shadow-2xl flex justify-between"
+          hover:shadow-2xl flex justify-between overflow-hidden"
           >
             <div>
               <p className="text-indigo-600 font-bold text-4xl">100K</p>
