@@ -5,7 +5,7 @@ import { ChipIcon, SupportIcon } from "@heroicons/react/solid";
 
 function Support() {
   return (
-    <div className="w-full h-screen mt-24 relative">
+    <div className="w-full mt-24 relative">
       <div className="w-full h-[700px] bg-gray-900/90 absolute">
         <img
           src={support}
